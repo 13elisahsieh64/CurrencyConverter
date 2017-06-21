@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FA7663B41EEB6D900054E49E /* pound-yen-euro-dollar.png in Resources */ = {isa = PBXBuildFile; fileRef = FA7663B31EEB6D900054E49E /* pound-yen-euro-dollar.png */; };
 		FAC820BB1EFAF92F00A4896C /* Terminal Saved Output in Resources */ = {isa = PBXBuildFile; fileRef = FAC820BA1EFAF92F00A4896C /* Terminal Saved Output */; };
+		FAC820BD1EFB0D4B00A4896C /* cake!.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FAC820BC1EFB0D4B00A4896C /* cake!.jpg */; };
 		FADF00FE1EE3632F00242081 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF00FD1EE3632F00242081 /* AppDelegate.swift */; };
 		FADF01001EE3632F00242081 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF00FF1EE3632F00242081 /* ViewController.swift */; };
 		FADF01031EE3632F00242081 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADF01011EE3632F00242081 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		FA7663B31EEB6D900054E49E /* pound-yen-euro-dollar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pound-yen-euro-dollar.png"; sourceTree = "<group>"; };
 		FAC820BA1EFAF92F00A4896C /* Terminal Saved Output */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Terminal Saved Output"; sourceTree = "<group>"; };
+		FAC820BC1EFB0D4B00A4896C /* cake!.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cake!.jpg"; sourceTree = "<group>"; };
 		FADF00FA1EE3632E00242081 /* CurrencyConverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurrencyConverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADF00FD1EE3632F00242081 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FADF00FF1EE3632F00242081 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				FADF00FD1EE3632F00242081 /* AppDelegate.swift */,
 				FADF00FF1EE3632F00242081 /* ViewController.swift */,
+				FAC820BC1EFB0D4B00A4896C /* cake!.jpg */,
 				FAC820BA1EFAF92F00A4896C /* Terminal Saved Output */,
 				FADF01011EE3632F00242081 /* Main.storyboard */,
 				FADF01041EE3632F00242081 /* Assets.xcassets */,
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FADF01081EE3632F00242081 /* LaunchScreen.storyboard in Resources */,
+				FAC820BD1EFB0D4B00A4896C /* cake!.jpg in Resources */,
 				FADF01051EE3632F00242081 /* Assets.xcassets in Resources */,
 				FA7663B41EEB6D900054E49E /* pound-yen-euro-dollar.png in Resources */,
 				FADF01031EE3632F00242081 /* Main.storyboard in Resources */,
