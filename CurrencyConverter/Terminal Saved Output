@@ -1,0 +1,158 @@
+Last login: Tue Jun 20 13:59:27 on ttys000
+Macbooks-MacBook-Pro-4:~ macbook$                                               Last login: Sat Jun 17 18:37:45 on ttys000
+Macbooks-MacBook-Pro-4:~ macbook$                                               git config --global user.name "Elisa"                                           git config --global user.email e.butterberry@gmail.com 
+usage: git config [<options>]
+
+Config file location
+    --global              use global config file
+    --system              use system config file
+    --local               use repository config file
+    -f, --file <file>     use given config file
+    --blob <blob-id>      read config from given blob object
+
+Action
+    --get                 get value: name [value-regex]
+    --get-all             get all values: key [value-regex]
+    --get-regexp          get values for regexp: name-regex [value-regex]
+    --get-urlmatch        get value specific for the URL: section[.var] URL
+    --replace-all         replace all matching variables: name value [value_regex]
+    --add                 add a new variable: name value
+    --unset               remove a variable: name [value-regex]
+macbook   ttys000                   Wed Jun 21 11:22   still logged in
+macbook   ttys000                   Tue Jun 20 13:59 - 13:59  (00:00)
+macbook   ttys000                   Sat Jun 17 18:37 - 18:37  (00:00)
+macbook   ttys000                   Sat Jun 17 17:57 - 17:57  (00:00)
+
+wtmp begins Thu Apr 27 13:40 
+Macbooks-MacBook-Pro-4:~ macbook$ Macbooks-MacBook-Pro-4:~ macbook$                                               git config --global user.name "Elisa"                                           git config --global user.email e.butterberry@gmail.com 
+-bash: Macbooks-MacBook-Pro-4:~: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ usage: git config [<options>]
+-bash: options: No such file or directory
+Macbooks-MacBook-Pro-4:~ macbook$ 
+Macbooks-MacBook-Pro-4:~ macbook$ Config file location
+-bash: Config: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --global              use global config file
+-bash: --global: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --system              use system config file
+-bash: --system: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --local               use repository config file
+-bash: --local: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     -f, --file <file>     use given config file
+-bash: file: No such file or directory
+Macbooks-MacBook-Pro-4:~ macbook$     --blob <blob-id>      read config from given blob object
+-bash: blob-id: No such file or directory
+Macbooks-MacBook-Pro-4:~ macbook$ 
+Macbooks-MacBook-Pro-4:~ macbook$ Action
+-bash: Action: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --get                 get value: name [value-regex]
+-bash: --get: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --get-all             get all values: key [value-regex]
+-bash: --get-all: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --get-regexp          get values for regexp: name-regex [value-regex]
+-bash: --get-regexp: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --get-urlmatch        get value specific for the URL: section[.var] URL
+-bash: --get-urlmatch: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --replace-all         replace all matching variables: name value [value_regex]
+-bash: --replace-all: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --add                 add a new variable: name value
+-bash: --add: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --unset               remove a variable: name [value-regex]
+-bash: --unset: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --unset-all           remove all matches: name [value-regex]
+-bash: --unset-all: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --rename-section      rename section: old-name new-name
+-bash: --rename-section: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --remove-section      remove a section: name
+-bash: --remove-section: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     -l, --list            list all
+-bash: -l,: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     -e, --edit            open an editor
+-bash: -e,: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --get-color           find the color configured: slot [default]
+-bash: --get-color: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --get-colorbool       find the color setting: slot [stdout-is-tty]
+-bash: --get-colorbool: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ 
+Macbooks-MacBook-Pro-4:~ macbook$ Type
+Macbooks-MacBook-Pro-4:~ macbook$     --bool                value is "true" or "false"
+-bash: --bool: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --int                 value is decimal number
+-bash: --int: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --bool-or-int         value is --bool or --int
+-bash: --bool-or-int: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --path                value is a path (file or directory name)
+-bash: syntax error near unexpected token `('
+Macbooks-MacBook-Pro-4:~ macbook$ 
+Macbooks-MacBook-Pro-4:~ macbook$ Other
+-bash: Other: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     -z, --null            terminate values with NUL byte
+-bash: -z,: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --name-only           show variable names only
+-bash: --name-only: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --includes            respect include directives on lookup
+-bash: --includes: command not found
+Macbooks-MacBook-Pro-4:~ macbook$     --show-origin         show origin of config (file, standard input, blob, command line)
+-bash: syntax error near unexpected token `('
+Macbooks-MacBook-Pro-4:~ macbook$ 
+Macbooks-MacBook-Pro-4:~ macbook$                                               cd /Users/macbook/Desktop/CurrencyConverter 
+Macbooks-MacBook-Pro-4:CurrencyConverter macbook$                               git init
+Reinitialized existing Git repository in /Users/macbook/Desktop/CurrencyConverter/.git/
+Macbooks-MacBook-Pro-4:CurrencyConverter macbook$                               git status
+On branch master
+Your branch is up-to-date with 'CurrencyConverter/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   CurrencyConverter/pound-yen-euro-dollar.png
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   CurrencyConverter.xcodeproj/project.pbxproj
+	modified:   CurrencyConverter/Base.lproj/Main.storyboard
+	modified:   CurrencyConverter/ViewController.swift
+
+Macbooks-MacBook-Pro-4:CurrencyConverter macbook$ 
+touch. gitignoreMacbooks-MacBook-Pro-4:~ macbook$ Macbooks-MacBook-Pro-4:~ macbo                                  cd /Users/macbook/Desktop/CurrencyConverter 
+-bash: Macbooks-MacBook-Pro-4:~: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ Macbooks-MacBook-Pro-4:CurrencyConverter macbook$                               git init
+-bash: Macbooks-MacBook-Pro-4:CurrencyConverter: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ Reinitialized existing Git repository in /Users/macbook/Desktop/CurrencyConverter/.git/
+-bash: Reinitialized: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ Macbooks-MacBook-Pro-4:CurrencyConverter macbook$                               git status
+-bash: Macbooks-MacBook-Pro-4:CurrencyConverter: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ On branch master
+-bash: On: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ Your branch is up-to-date with 'CurrencyConverter/master'.
+-bash: Your: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ Changes to be committed:
+-bash: Changes: command not found
+Macbooks-MacBook-Pro-4:~ macbook$   (use "git reset HEAD <file>..." to unstage)
+-bash: use: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ 
+Macbooks-MacBook-Pro-4:~ macbook$ new file:   CurrencyConverter/pound-yen-euro-dollar.png
+-bash: new: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ 
+Macbooks-MacBook-Pro-4:~ macbook$ Changes not staged for commit:
+-bash: Changes: command not found
+Macbooks-MacBook-Pro-4:~ macbook$   (use "git add <file>..." to update what will be committed)
+-bash: use: command not found
+Macbooks-MacBook-Pro-4:~ macbook$   (use "git checkout -- <file>..." to discard changes in working directory)
+-bash: use: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ 
+Macbooks-MacBook-Pro-4:~ macbook$ modified:   CurrencyConverter.xcodeproj/project.pbxproj
+-bash: modified:: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ modified:   CurrencyConverter/Base.lproj/Main.storyboard
+-bash: modified:: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ modified:   CurrencyConverter/ViewController.swift
+-bash: modified:: command not found
+Macbooks-MacBook-Pro-4:~ macbook$ 
+Macbooks-MacBook-Pro-4:~ macbook$ Macbooks-MacBook-Pro-4:CurrencyConverter macbook$ 
+-bash: Macbooks-MacBook-Pro-4:CurrencyConverter: command not found
+Macbooks-MacBook-Pro-4:~ macbook$                                               touch .gitignore                                                                ls -a
+Macbooks-MacBook-Pro-4:~ macbook$                                               open -a TextEdit .gitignore
+Macbooks-MacBook-Pro-4:~ macbook$                                               git add .
+git commit -m "Initial commit"
+
+
