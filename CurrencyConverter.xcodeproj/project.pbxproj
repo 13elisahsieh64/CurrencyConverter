@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA7663B41EEB6D900054E49E /* pound-yen-euro-dollar.png in Resources */ = {isa = PBXBuildFile; fileRef = FA7663B31EEB6D900054E49E /* pound-yen-euro-dollar.png */; };
 		FADF00FE1EE3632F00242081 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF00FD1EE3632F00242081 /* AppDelegate.swift */; };
 		FADF01001EE3632F00242081 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF00FF1EE3632F00242081 /* ViewController.swift */; };
 		FADF01031EE3632F00242081 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADF01011EE3632F00242081 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA7663B31EEB6D900054E49E /* pound-yen-euro-dollar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pound-yen-euro-dollar.png"; sourceTree = "<group>"; };
 		FADF00FA1EE3632E00242081 /* CurrencyConverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurrencyConverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADF00FD1EE3632F00242081 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FADF00FF1EE3632F00242081 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				FADF01011EE3632F00242081 /* Main.storyboard */,
 				FADF01041EE3632F00242081 /* Assets.xcassets */,
 				FADF01061EE3632F00242081 /* LaunchScreen.storyboard */,
+				FA7663B31EEB6D900054E49E /* pound-yen-euro-dollar.png */,
 				FADF01091EE3632F00242081 /* Info.plist */,
 			);
 			path = CurrencyConverter;
@@ -125,6 +128,7 @@
 			files = (
 				FADF01081EE3632F00242081 /* LaunchScreen.storyboard in Resources */,
 				FADF01051EE3632F00242081 /* Assets.xcassets in Resources */,
+				FA7663B41EEB6D900054E49E /* pound-yen-euro-dollar.png in Resources */,
 				FADF01031EE3632F00242081 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,6 +305,7 @@
 				FADF010E1EE3632F00242081 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
